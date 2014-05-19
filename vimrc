@@ -31,7 +31,8 @@ Plugin 'tpope/vim-sensible'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'bling/vim-airline'
 Plugin 'scrooloose/nerdtree'
-
+Plugin 'kien/ctrlp.vim'
+Plugin 'majutsushi/tagbar'
 call vundle#end()
 filetype plugin indent on
 
